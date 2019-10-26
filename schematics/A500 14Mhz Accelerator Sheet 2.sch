@@ -228,7 +228,7 @@ U 1 1 5CF79B9A
 P 2400 1400
 F 0 "R1" V 2193 1400 50  0000 C CNN
 F 1 "560" V 2284 1400 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 2330 1400 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 2330 1400 50  0001 C CNN
 F 3 "~" H 2400 1400 50  0001 C CNN
 	1    2400 1400
 	0    1    1    0   
@@ -239,7 +239,7 @@ U 1 1 5CF7A40C
 P 2800 1250
 F 0 "R2" H 2870 1296 50  0000 L CNN
 F 1 "10k" H 2870 1205 50  0000 L CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 2730 1250 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 2730 1250 50  0001 C CNN
 F 3 "~" H 2800 1250 50  0001 C CNN
 	1    2800 1250
 	1    0    0    -1  
@@ -250,7 +250,7 @@ U 1 1 5CF7AD75
 P 2400 2000
 F 0 "R3" V 2193 2000 50  0000 C CNN
 F 1 "560" V 2284 2000 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 2330 2000 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 2330 2000 50  0001 C CNN
 F 3 "~" H 2400 2000 50  0001 C CNN
 	1    2400 2000
 	0    1    1    0   
@@ -261,7 +261,7 @@ U 1 1 5CF7BBC3
 P 3150 1400
 F 0 "C1" V 2921 1400 50  0000 C CNN
 F 1 "22pf" V 3012 1400 50  0000 C CNN
-F 2 "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal" H 3150 1400 50  0001 C CNN
+F 2 "Capacitor_THT:C_Axial_L5.1mm_D3.1mm_P7.50mm_Horizontal" H 3150 1400 50  0001 C CNN
 F 3 "~" H 3150 1400 50  0001 C CNN
 	1    3150 1400
 	0    1    1    0   
@@ -272,7 +272,7 @@ U 1 1 5CF7C3B2
 P 3150 2000
 F 0 "C2" V 2921 2000 50  0000 C CNN
 F 1 "22pf" V 3012 2000 50  0000 C CNN
-F 2 "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal" H 3150 2000 50  0001 C CNN
+F 2 "Capacitor_THT:C_Axial_L5.1mm_D3.1mm_P7.50mm_Horizontal" H 3150 2000 50  0001 C CNN
 F 3 "~" H 3150 2000 50  0001 C CNN
 	1    3150 2000
 	0    1    1    0   
@@ -603,7 +603,7 @@ U 1 1 5D2A5E7D
 P 7450 5050
 F 0 "C3" H 7542 5096 50  0000 L CNN
 F 1 "0.1uF" H 7542 5005 50  0000 L CNN
-F 2 "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal" H 7450 5050 50  0001 C CNN
+F 2 "Capacitor_THT:C_Axial_L5.1mm_D3.1mm_P7.50mm_Horizontal" H 7450 5050 50  0001 C CNN
 F 3 "~" H 7450 5050 50  0001 C CNN
 	1    7450 5050
 	1    0    0    -1  
@@ -614,7 +614,7 @@ U 1 1 5D2A611E
 P 7950 5050
 F 0 "C4" H 8042 5096 50  0000 L CNN
 F 1 "0.1uF" H 8042 5005 50  0000 L CNN
-F 2 "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal" H 7950 5050 50  0001 C CNN
+F 2 "Capacitor_THT:C_Axial_L5.1mm_D3.1mm_P7.50mm_Horizontal" H 7950 5050 50  0001 C CNN
 F 3 "~" H 7950 5050 50  0001 C CNN
 	1    7950 5050
 	1    0    0    -1  
@@ -625,7 +625,7 @@ U 1 1 5D2A69DB
 P 8400 5050
 F 0 "C5" H 8492 5096 50  0000 L CNN
 F 1 "0.1uF" H 8492 5005 50  0000 L CNN
-F 2 "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal" H 8400 5050 50  0001 C CNN
+F 2 "Capacitor_THT:C_Axial_L5.1mm_D3.1mm_P7.50mm_Horizontal" H 8400 5050 50  0001 C CNN
 F 3 "~" H 8400 5050 50  0001 C CNN
 	1    8400 5050
 	1    0    0    -1  
@@ -636,7 +636,7 @@ U 1 1 5D2A6F00
 P 8850 5050
 F 0 "C6" H 8942 5096 50  0000 L CNN
 F 1 "0.1uF" H 8942 5005 50  0000 L CNN
-F 2 "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal" H 8850 5050 50  0001 C CNN
+F 2 "Capacitor_THT:C_Axial_L5.1mm_D3.1mm_P7.50mm_Horizontal" H 8850 5050 50  0001 C CNN
 F 3 "~" H 8850 5050 50  0001 C CNN
 	1    8850 5050
 	1    0    0    -1  
@@ -647,7 +647,7 @@ U 1 1 5D2A7356
 P 9300 5050
 F 0 "C7" H 9392 5096 50  0000 L CNN
 F 1 "0.1uF" H 9392 5005 50  0000 L CNN
-F 2 "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal" H 9300 5050 50  0001 C CNN
+F 2 "Capacitor_THT:C_Axial_L5.1mm_D3.1mm_P7.50mm_Horizontal" H 9300 5050 50  0001 C CNN
 F 3 "~" H 9300 5050 50  0001 C CNN
 	1    9300 5050
 	1    0    0    -1  
@@ -658,7 +658,7 @@ U 1 1 5D2A7BA0
 P 9750 5050
 F 0 "C8" H 9842 5096 50  0000 L CNN
 F 1 "0.1uF" H 9842 5005 50  0000 L CNN
-F 2 "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal" H 9750 5050 50  0001 C CNN
+F 2 "Capacitor_THT:C_Axial_L5.1mm_D3.1mm_P7.50mm_Horizontal" H 9750 5050 50  0001 C CNN
 F 3 "~" H 9750 5050 50  0001 C CNN
 	1    9750 5050
 	1    0    0    -1  
@@ -669,7 +669,7 @@ U 1 1 5D2A817D
 P 10200 5050
 F 0 "C9" H 10292 5096 50  0000 L CNN
 F 1 "0.1uF" H 10292 5005 50  0000 L CNN
-F 2 "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal" H 10200 5050 50  0001 C CNN
+F 2 "Capacitor_THT:C_Axial_L5.1mm_D3.1mm_P7.50mm_Horizontal" H 10200 5050 50  0001 C CNN
 F 3 "~" H 10200 5050 50  0001 C CNN
 	1    10200 5050
 	1    0    0    -1  
@@ -680,7 +680,7 @@ U 1 1 5D2A9402
 P 10650 5050
 F 0 "C10" H 10742 5096 50  0000 L CNN
 F 1 "0.1uF" H 10742 5005 50  0000 L CNN
-F 2 "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal" H 10650 5050 50  0001 C CNN
+F 2 "Capacitor_THT:C_Axial_L5.1mm_D3.1mm_P7.50mm_Horizontal" H 10650 5050 50  0001 C CNN
 F 3 "~" H 10650 5050 50  0001 C CNN
 	1    10650 5050
 	1    0    0    -1  
@@ -741,7 +741,7 @@ U 1 1 5CF99995
 P 7450 5450
 F 0 "C11" H 7542 5496 50  0000 L CNN
 F 1 "0.1uF" H 7542 5405 50  0000 L CNN
-F 2 "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal" H 7450 5450 50  0001 C CNN
+F 2 "Capacitor_THT:C_Axial_L5.1mm_D3.1mm_P7.50mm_Horizontal" H 7450 5450 50  0001 C CNN
 F 3 "~" H 7450 5450 50  0001 C CNN
 	1    7450 5450
 	1    0    0    -1  
@@ -752,7 +752,7 @@ U 1 1 5CF99CD7
 P 7950 5450
 F 0 "C12" H 8042 5496 50  0000 L CNN
 F 1 "0.1uF" H 8042 5405 50  0000 L CNN
-F 2 "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal" H 7950 5450 50  0001 C CNN
+F 2 "Capacitor_THT:C_Axial_L5.1mm_D3.1mm_P7.50mm_Horizontal" H 7950 5450 50  0001 C CNN
 F 3 "~" H 7950 5450 50  0001 C CNN
 	1    7950 5450
 	1    0    0    -1  
